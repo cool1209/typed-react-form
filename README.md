@@ -55,4 +55,4 @@ Contributions are welcome.
 
 ## License
 
-MIT © [Stijn Rogiest](https://github.com/CodeStix)
+MIT © [click here](https://github.com/Simba830)
